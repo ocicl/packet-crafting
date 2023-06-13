@@ -1,0 +1,10 @@
+* packet-crafting
+
+A project to allow the manipulation of network packets
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mets634/packet-crafting.git   |
+| commit  | 272f752  |
+| systems | packet-crafting |
+|---------+-------------------------------------------|
+
